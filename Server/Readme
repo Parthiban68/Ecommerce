@@ -1,0 +1,7 @@
+
+<!-- Server Side  -->
+
+1) we have four webpage that send request to the one server;
+2) In that server we mongodb and mysql for store data;
+3) For admin and vendor login data will be stored in mysql;
+4) product upload by vendor store in mongodb;
