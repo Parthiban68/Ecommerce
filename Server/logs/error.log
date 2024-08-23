@@ -1,0 +1,8 @@
+{"error":"Table 'mysql.parthi' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:39:26.536Z"}
+{"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:40:21.215Z"}
+{"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:44:28.336Z"}
+{"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:46:19.446Z"}
+{"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:57:03.904Z"}
+{"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:57:21.659Z"}
+{"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:57:27.764Z"}
+{"error":"Table 'sakila.acto' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:58:12.583Z"}

@@ -1,0 +1,22 @@
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:36:55.063Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:37:33.792Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:37:35.210Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:37:39.389Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:37:46.530Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:06.960Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:07.550Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:07.777Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:07.952Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:08.120Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:08.304Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:08.464Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:08.602Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:08.766Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:09.029Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:09.120Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:09.398Z","userCount":4}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:38:31.339Z","userCount":4}
+{"error":"Table 'mysql.parthi' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:39:26.535Z"}
+{"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:40:21.214Z"}
+{"level":"info","message":"user data fetched succesfully","timestamp":"2024-08-23T13:40:50.633Z","userCount":210}
+{"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:44:28.333Z"}
