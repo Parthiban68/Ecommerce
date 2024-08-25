@@ -6,3 +6,5 @@
 {"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:57:21.659Z"}
 {"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:57:27.764Z"}
 {"error":"Table 'sakila.acto' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-23T13:58:12.583Z"}
+{"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-25T15:37:28.422Z"}
+{"error":"Table 'mysql.sakila' doesn't exist","level":"error","message":"Error in fetching user data","timestamp":"2024-08-25T15:37:53.209Z"}
