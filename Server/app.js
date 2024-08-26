@@ -10,6 +10,8 @@ const logger = require('./Utils/logger');
 const { stack } = require('sequelize/lib/utils');
 const { error } = require('winston');
 const user = require('./Routes/Api/user')
+const Sentry = require("@sentry/node");
+const error_handlers = require('./Utils/Errors/error_handlers');
 const app = express()
 
 
@@ -30,12 +32,14 @@ app.use(limiter)
 app.use('/user', user)
 
 
-//Gobal Error Handling
-app.use((err, req, res, next) => {
-    logger.error(stack.err)
-    res.status(500).json({ message: "Something went wrong!", error: err.message })
-})
+//sentry error handle setup
+Sentry.setupExpressErrorHandler(app);
 
+//gobal error handling with sentry 
+error_handlers(app);
+
+
+//server setup
 app.listen(process.env.port || '3002', () => {
     try {
         console.log(`Server connected Successfully to port ${process.env.port}`);
