@@ -9,7 +9,7 @@ app.use(cors());
 
 //proxy server config
 app.use('/customer', proxy('http://localhost:3001')); // customer
-app.use('/products', proxy('http://localhost:3002')); //products
+app.use('/product', proxy('http://localhost:3002')); //products
 app.use('/shopping', proxy('http://localhost:3003')); //shopping
 
 

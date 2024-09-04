@@ -8,12 +8,12 @@ app.use(cors());
 app.use(bodypraser.json());
 
 app.get('/',(req,res)=>{
-    return res.status(200).json({message:'customer page'});
+    return res.status(200).json({message:'Shopping page'});
 });
 
-app.listen('3001',()=>{
+app.listen('3003',()=>{
     try {
-        console.log("Customer server Running Successfully");
+        console.log("Shopping server Running Successfully");
     } catch (error) {
         console.error('Server Error',error);
         
